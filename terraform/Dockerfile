@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/powershell:7.0.0-ubuntu-18.04
+FROM mcr.microsoft.com/powershell:7.0.3-ubuntu-18.04
 
 ENV TERRAFORM_VERSION 0.12.26
 
